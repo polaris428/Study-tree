@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">방학 프로젝트</string>
+    <string name="a">오늘의 나를 믿지 못하면 내일의 나도 믿지 말라 \n 정민재</string>
+    <string name="a1">배우려고 하는 학생은 부끄러워 하면 안된다 \n 히레르</string>
+    <string name="a2">우리가 쓰는 것 중 가장 비싼것은 시간이다 \n 테오프라토스</string>
+    <string name="a3">재능이 없다고 말하는 사람은 대부분 별로 시도해 본 일이 없는 사람들이다 \n 앤드류 메토스</string>
+    <string name="a4">공부는 인생의 전부가 아니다 그러나 인생의 전부도 아닌 공부도 정복 봇한다면 과연 무슨일을 하겠는가 </string>
+    <string name="a5">실패란 넘어지는것이 아닌 넘어진 자리에서 머무는 거다 \n 도서 프린세스,라브라바! 中에서 </string>
+    <string name="a6">시간은 돈으로도 권력으로도 살 수 없다 누구에게나 주어진 시간을 부지런히 이용한 사람이 승자가된다 \n 필립</string>
+    <string name="a7">같은 실수를 두려워하되 새로운 실수를 두려워 하지 마라 실수는 경험이다 \n 어떤 하루 中 에서 </string>
+
+
+    <string name="b1">힘내!!</string>
+    <string name="b2">오늘 하루도 화이팅</string>
+    <string name="b3">좀만 더 하자!</string>
+    <string name="b4">내일의 주인공은 너야</string>
+    <string name="b5">아자아자!</string>
+    <string name="b6">넌 할 수 있어</string>
+    <string name="b7">오늘도 수고한 너에게 박수를</string>
+    <string name="b8">언제나 널 응원해</string>
+    <string name="b9">전부 잘될거야!</string>
+
+
+
+
+</resources>
